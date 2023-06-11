@@ -32,6 +32,14 @@
     margin-bottom: 1rem;
 }
 
+.coming-soon {
+    color: var(--color-light);
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
 @media screen and (max-width: 1024px) {
     .portfolio__container{
         grid-template-columns: 1fr 1fr;
